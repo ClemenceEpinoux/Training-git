@@ -1,4 +1,4 @@
 # Git training
 Uptade from github
 
-x = 2
+x = 3
